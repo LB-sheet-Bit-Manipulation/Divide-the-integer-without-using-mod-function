@@ -9,12 +9,6 @@
 //5-5=0  which is < divisor 5 so while() ke andar nhi ghusega ab aage wala.(it is last one)
 //while loop ke andar ka count variable 6 baar increase hua => quotient => our answer
 
-
-//Issue:
-//Iska bit manipulation wala solution nhi samza. See it later
-//return me maine * ka use kiya hai. check if its allowed or not!!
-//negative values pe kaam nhi karra BC saala. See on online compiler
-
 #include<iostream>
 #include<cmath>     //to use abs()
 using namespace std;
